@@ -1,5 +1,7 @@
 // Day-09               function in JavaScript
 
+// Notes=> https://app.notion.com/p/Lecture-09-Function-in-javascript-2843a78e0e2280aeb47fd280307b1a38
+
 
 //1) normal function:-
 
